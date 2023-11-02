@@ -44,8 +44,3 @@ To run this website, you can simply download the source code and open the `index
 
 If you'd like to contribute to this project, you can fork the repository, make your changes, and submit a pull request. Your contributions are welcome, whether they involve adding new features, improving the design, or fixing bugs.
 
-## License
-
-This project is licensed under the MIT License. You can find the full license details in the [LICENSE](LICENSE) file.
-
-We hope this Food/Restaurant Website repository helps you create a fantastic online presence for your restaurant or food-related business. Enjoy exploring and customizing it for your needs! If you have any questions or need assistance, please don't hesitate to reach out.
